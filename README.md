@@ -9,4 +9,5 @@
 
 预测效果
 
-![image](https://github.com/user-attachments/assets/f5aa83ff-a2a9-45ab-af3d-7e6b4f077d6c)
+![image](https://github.com/user-attachments/assets/a1630c8f-a1d6-4007-a167-ee11ab49baf6)
+
